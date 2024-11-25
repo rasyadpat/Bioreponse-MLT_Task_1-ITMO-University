@@ -1,4 +1,4 @@
- ### <u>**Machine Learning Technologies</u> - Task 1**: Unsupervised Learning
+ # <ins>**Machine Learning Technologies</ins> - Task 1**: Unsupervised Learning
 __ITMO University__, St. Petersburg, Russia
 - Name    : Rahman, Rasyad Rifatan <br>
 - ID      : 458029
